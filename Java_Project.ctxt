@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Java_Project
+comment0.text=import\ java.util.Arrays;\r\nimport\ java.util.ArrayList;\r\nimport\ java.util.HashMap;\r\nimport\ java.util.List;\r\nimport\ java.util.Scanner;\r\n
+comment1.params=string
+comment1.target=java.util.HashMap\ countCharInString(java.lang.String)
+comment10.params=
+comment10.target=void\ getFactorial()
+comment11.params=
+comment11.target=void\ main()
+comment2.params=
+comment2.target=void\ getCharCount()
+comment3.params=num
+comment3.target=void\ EvenOrOdd(long)
+comment4.params=
+comment4.target=void\ getEvenOrOdd()
+comment5.params=arr
+comment5.target=int[]\ ReverseArray(int[])
+comment6.params=
+comment6.target=void\ getReverseArray()
+comment7.params=radii
+comment7.target=void\ AreaAndFact(float)
+comment8.params=
+comment8.target=void\ getAreaAndFact()
+comment9.params=num
+comment9.target=int\ Factorial(int)
+numComments=12
