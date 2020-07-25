@@ -80,14 +80,14 @@ public class Java_Project {
         System.out.println("Reverse of Array is : " + Arrays.toString(ReverseArray(arr)) );
     }
     
-    public void AreaAndFact(float radii){
+    public void AreaAndCirc(float radii){
         double area = Math.PI*Math.pow(radii,2);
         double circumference = 2*Math.PI*radii;
         System.out.println("Area:"+area);
         System.out.println("Circumference :" + circumference);
     }
     
-    public void getAreaAndFact(){
+    public void getAreaAndCirc(){
         float radii ;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the radius of the circle : ");
@@ -161,7 +161,7 @@ public class Java_Project {
                 break;
                 
                 case "4":    
-                getAreaAndFact();
+                getAreaAndCirc();
                 System.out.println("");
                 break;
                 
