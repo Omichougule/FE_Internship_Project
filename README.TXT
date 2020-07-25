@@ -21,8 +21,8 @@ This will be the menu driven page which will direct the user to the desired opti
 1.	Even or odd: User will be asked for a number as input and system will find and display the entered number is even or odd.
 2.	Duplicate characters: User will be asked to enter a sentence as input and system will display the count of each letter in the sentence.
 3.	Reverse: First the user will be asked to enter how many numbers user wants to enter. And then user will be asked to enter all the numbers giving space. 
-    Then system will display the numbers in reverse order.
-    For Example: if a user enters the array elements as 1, 2, 3, 4, 5 then the program would reverse the array and the elements of the array would be 5, 4, 3, 2, 1.
+        Then system will display the numbers in reverse order.
+        For Example: if a user enters the array elements as 1, 2, 3, 4, 5 then the program would reverse the array and the elements of the array would be 5, 4, 3, 2, 1.
 4.	Area and Circumference of Circle: User will be asked to enter radius of a circle and the system will display area and circumference of the circle.
 5.	Factorial: User will be asked to enter a number as input and the system will display factorial of the number.
 6.	EXIT : If user want to exit from the system.
